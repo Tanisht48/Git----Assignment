@@ -5,6 +5,10 @@
 
 ### Prerequisites
   * Git 
+### Install
+  ```
+  install git
+  ```
 ### Git Bash
 ```
 git status
