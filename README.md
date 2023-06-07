@@ -15,6 +15,7 @@
  3. [Git -03](https://classroom.google.com/c/NTIyNjE2MDk1MDI0/a/NTIyNjE2MDk1MDU4/details)
 ### Git Bash
 ```
+git --version
 git status
 git init
 git log
